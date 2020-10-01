@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/928rofqts1ygdca3?svg=true)](https://ci.appveyor.com/project/denis-shubochkin/ahj-hw5-1)
+
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
 2. Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
